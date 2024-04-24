@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching over SY:RP!"];
+const statusMessages = ["bit.ly/sydneyrp-discord"];
 
 
 let currentIndex = 0;
